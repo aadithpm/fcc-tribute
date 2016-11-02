@@ -1,0 +1,118 @@
+#test
+{
+  border: 1px solid black;
+}
+
+.footer
+{
+  letter-spacing:20px;
+}
+
+a:hover
+{
+  text-decoration:none;
+}
+
+.row
+{
+  margin:10px;
+}
+
+
+.ElonTitle
+{
+  text-align:center;
+  font-family:"Megrim",sans-serif;
+  padding-bottom:50px;
+}
+
+.JumboQuote
+{
+  text-align:center;
+  font-family:"Roboto Slab",sans-serif;
+}
+.JumboBig
+{
+  font-size:1.8em;
+  letter-spacing:6px;
+}
+.QuoteLeft
+{
+  margin-right:10px;
+}
+.QuoteRight
+{
+  margin-left:5px;
+}
+
+.Header
+{
+
+  border-bottom:1px solid #546E7A;
+  padding-bottom:5px;
+  margin-bottom:20px;
+  background-position:100px;
+  color:#37474F;
+}
+
+.Text
+{
+  font-family:"Roboto Slab",sans-serif;
+  color:#546E7A;
+}
+
+.Name
+{
+  color:#37474F;
+  font-size:1.2em;
+  display:inline;
+  
+}
+
+.Bio
+{ 
+}
+
+.Bio img:first-child
+{
+  border-top:1px solid #546E7A;
+}
+
+.Bio img
+{
+    
+  display:block;
+  margin-right:auto;
+  margin-left:auto;
+  margin-top:30px;
+  padding:10px;
+  max-width:100%;
+  height:auto;
+}
+.Bio p:nth-child(3)
+{
+  text-align:center;
+  padding-bottom:10px;
+}
+
+.ContactInfo
+{
+  margin-top:30px;
+  font-size:1rem;
+}
+.ContactInfo a
+{
+  text-decoration:none;
+}
+
+.Achievements
+{
+  list-style:none;
+  border:1px solid #546E7A;
+  padding-top:40px;
+}
+
+.Achievements li
+{
+  background-color:#F5F5F5;
+}
